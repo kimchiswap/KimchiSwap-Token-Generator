@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sthnaqvi/erc20-asset-generator.git"
+    "url": "https://github.com/kimchiswap/erc20-asset-generator.git"
   },
   "bugs": {
-    "url": "https://github.com/sthnaqvi/erc20-asset-generator/issues"
+    "url": "https://github.com/kimchiswap/erc20-asset-generator/issues"
   },
   "homepage": "https://github.com/sthnaqvi/erc20-asset-generator#readme",
-  "author": "Sayed Tauseef Naqvi <tauseef.naqvi786@gmail.com>",
+  "author": "Jeff Connelly <dev@tokenworks.io>",
   "license": "MIT",
   "keywords": [
     "ethereum",
